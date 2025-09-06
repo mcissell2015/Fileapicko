@@ -1,5 +1,5 @@
 # Fileapicko
-![Fileapicko logo](https://i.ibb.co/Y7KK9JYw/Fileapicko-9-5-2025.png)
+![Fileapicko Logo](https://i.ibb.co/Y7KK9JYw/Fileapicko-9-5-2025.png)
 Meet **Fileapicko!** A new way to create files
 Type a name for an file and it creates it with the Name for you!
 
